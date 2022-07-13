@@ -6,7 +6,3 @@ description = "An attempt at creating a linear algebra crate"
 license = "MIT"
 authorx = "Tanveer Badar"
 repository = "https://github.com/tanveerbadar/chapter-3"
-# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
-
-[dependencies]
-num-traits = "0.2.15"
